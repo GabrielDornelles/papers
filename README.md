@@ -1,2 +1,2 @@
 # papers
-sharing my papers beetween machines
+sharing ml papers beetween machines
